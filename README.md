@@ -1,9 +1,2 @@
-First Install some important libraries which are required to run the code
-import pyttsx3
-import speech_recognition 
-import datetime
-import wikipedia
-import webbrowser
-import os
-import smtplib
-import pyaudio
+
+[Readme.txt](https://github.com/Vivek4237/Minor-Project-OSIS/files/8715436/Readme.txt)
